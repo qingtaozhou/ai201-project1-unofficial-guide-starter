@@ -1,0 +1,61 @@
+Discord Transcript: Georgia Tech CS Master's Community
+Channel: #course-selection
+Thread: "Is 7641 really worth the pain? Should I just take 6340?"
+Date: May 2026
+
+---
+
+User A (2nd semester):
+Not a quick answer but: Yes, take 7641. I was also considering skipping it and just doing 6340. But here's why 7641 matters:
+
+**7641 is hard but it's the foundation.** 6340 is AI algorithms (search, planning, CSP). 7641 is learning from data (the thing everyone actually does). If you want an ML job, employers basically expect you to have 7641-level knowledge.
+
+**The pain is worth it:** I spent 20 hours on homework for 7641. I spent 12 hours on 6340 homework. But the 7641 homework actually taught me how to think about ML. The 6340 homework was "implement this algorithm."
+
+**6340 is great BUT:** It's more CS-theory adjacent. If your goal is ML (which I assume it is if you're asking), 6340 is a nice supplement, not a replacement.
+
+User B (1st semester):
+Okay but I'm scared I'll fail. What if I'm not smart enough?
+
+User A:
+You won't fail. Isbell curves. The class is hard but ~60% pass with B or better. If you don't fail all exams, the homework grades bring you up.
+
+Also: "not smart enough" is not the barrier. The barrier is time. If you give 7641 15 hours a week, you'll pass. If you give it 5 hours, you'll struggle.
+
+User C (Master's advisor):
+Co-signing this. We tell students: if you have time for one course, make it 7641. Everything else is supporting.
+
+The grad recruiters at tech companies (FAANG, quant firms) want to see 7641 on your transcript. They don't care about 6340.
+
+User B:
+Alright, I'm convinced. But how do I balance it with other courses?
+
+User A:
+Take 7641 + 1 medium course. Don't stack it with 6505 (too hard) or 7646 (project hell).
+
+Good pairings:
+- 7641 + 6340 (both math-heavy, different flavors)
+- 7641 + 6200 (7641 is theory, 6200 is systems, they don't overlap)
+- 7641 + 6300 (6300 is lighter, gives you breathing room)
+
+Bad pairings:
+- 7641 + 6505 (suicide mission)
+- 7641 + 7646 + anything (all time-hungry)
+
+User D (Part-time student):
+How do I do 7641 part-time? I work full-time.
+
+User A:
+Honestly? You don't, easily. 7641 is designed for full-time students. The exams are timed and require deep understanding, not quick solutions.
+
+But some people do it:
+- Start homework first day it drops
+- Go to office hours even if just to listen
+- Use fall semester (lighter load) to do it
+- Or do it solo-course semester
+
+I wouldn't recommend it. Better to add an extra semester than to crush 7641 while working full-time.
+
+---
+Source: Discord (GT CS Master's Server)
+Date: May 2026

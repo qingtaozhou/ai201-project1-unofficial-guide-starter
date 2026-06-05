@@ -1,0 +1,72 @@
+Blind Post: "Georgia Tech CS Master's — Real talk about the program"
+Posted: May 2026
+Votes: 145 upvotes
+
+---
+
+Title: "Worth the money? Honest take after finishing my degree"
+
+Post:
+
+I just finished my CS Master's at Georgia Tech. Total cost: ~$35k over 2 years (part-time, taking 2 courses/semester). Here's my honest assessment.
+
+**Career outcome:**
+Got offered 3 jobs after graduation, all in ML/AI. Highest offer: $180k TC (San Francisco). Current: $165k TC (remote, Atlanta-based company). Previously: $120k TC before grad school.
+
+**Was it worth it?**
+Yes, but with caveats.
+
+**What mattered:**
+1. CS 7641 on transcript (recruiters specifically asked about it)
+2. Projects I built for classes (portfolio matters more than GPA)
+3. Networking with classmates (2 of my job connections came from study groups)
+4. Time to build side projects while studying
+
+**What didn't matter:**
+- GPA (mine was 3.8 but nobody asked for it)
+- Taking obscure electives (CS 7646 seemed cool but wasn't valuable)
+- Rushing to finish (taking it part-time gave me breathing room)
+
+**Red flags I saw (students who struggled):**
+- Taking too many courses too fast (8 courses in 1 year)
+- Prioritizing GPA over actual learning (students who got A's but couldn't code)
+- Skipping the hard courses (7641, 6505) for easier electives
+- Not building portfolio projects (grades alone don't get jobs)
+
+**Best strategy I saw:**
+- Full-time MS: 3 semesters, 2 courses per semester, 1 internship
+- Part-time MS: 4-5 semesters, 2 courses per semester, keep your job
+- Prioritize: 7641 (ML), then your domain of interest, then electives
+- Build 1-2 portfolio projects alongside courses
+- Network with TAs and professors (they have connections)
+
+**Would I do it again?**
+Yes. The salary increase alone paid for itself. Plus I understand ML deeply now (not just API-driven coding).
+
+**Why some people regret it:**
+- Took non-rigorous electives instead of hard ones
+- Didn't job search properly (good resume still matters)
+- Isolated themselves (didn't network with cohort)
+- Tried to do too much too fast
+
+**The reality check:**
+The degree opens doors, but YOU have to walk through them. There are graduates who job-searched for 6 months. There are graduates who had 5 offers. Difference was interview prep and being selective about courses.
+
+**My coursework (in order):**
+Semester 1: 7641 (ML), 6340 (AI) — foundation courses
+Semester 2: 6200 (OS), 6300 (SWE) — systems understanding
+Semester 3: 7646 (Trading), 6001 (Bio) — electives (honestly didn't matter)
+Internship: Summer, 3 months in ML research
+
+This gave me: ML foundation + systems knowledge + research experience + portfolio projects.
+
+**TL;DR:**
+- Get your 7641 + domain-specific courses
+- Build projects
+- Network
+- Don't get caught up in GPA
+- The degree is an accelerant, not a guarantee
+
+---
+Source: Blind (tech industry community)
+Date: May 2026

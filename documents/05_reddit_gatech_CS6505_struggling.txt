@@ -1,0 +1,67 @@
+Reddit Post: r/gatech
+Title: "CS 6505 (Algorithms) is destroying me. How do I even pass this?"
+Posted: 2026-04-22
+Upvotes: 156
+
+Post:
+I'm a Master's student and took CS 6505 (Algorithms/Computability) with Goldberg. I've never been more stressed about a course. Here's my situation:
+
+Exam 1: 48/100 (class median was 52)
+Exam 2 (midterm): 52/100 (I improved slightly but still below median)
+Homework: 85% (okay)
+Current grade: D+ (hurting)
+
+The course is:
+- NP-completeness proofs
+- Polynomial reduction
+- Approximation algorithms
+- Advanced graph algorithms
+
+The problem: The textbook (CLRS) is dense. Goldberg's lectures are fast. Exams ask you to PROVE new things you haven't seen before, not just apply algorithms from class.
+
+People who are passing:
+- PhD students (they've seen this material before)
+- People with strong discrete math background
+- Students who are genuinely passionate about theory
+
+I'm not any of those. I'm a master's student who just wanted a solid CS foundation. I'm getting crushed.
+
+Questions:
+1. Is there any way to recover?
+2. Should I drop?
+3. What's the curve like?
+
+---
+
+INSTRUCTOR RESPONSE (Prof. Goldberg):
+The course is designed to be challenging. The exams require you to think, not memorize. If you're struggling, I recommend:
+1. Form study groups with classmates
+2. Read the CLRS proofs deeply, don't skim
+3. Come to my office hours
+4. The curve exists — don't panic at raw scores
+
+The median on Exam 2 was 52, which curved to ~68%. So you're not alone.
+
+---
+
+TOP COMMENT (by CS_PhD_2024):
+"Dropped it after exam 1. Retook it the next year and did better, but honestly, it's designed for PhD students or people with theory backgrounds. If you don't plan on doing research, 6505 is a waste of your time. Take 7641 instead."
+
+ANOTHER COMMENT (by got_a_C):
+"I got a C in 6505. It was the worst semester of my life. But honestly, I learned more in that course than any other. The struggle was the point. If you can push through, the understanding sticks. But it's okay to drop if your GPA matters for recruiting."
+
+---
+
+ENCOURAGEMENT (by grad_2023):
+"I bombed exam 1 (40). Got a B in the course. Here's what worked:
+1. Study old exams obsessively
+2. Do practice proofs every day for 30 mins
+3. Talk to Goldberg about problem types
+4. Don't compare yourself to PhD students — they have advantages
+5. The curve is real. Trust it.
+
+You've got time. Don't give up yet."
+
+---
+Source: Reddit r/gatech
+Date: 2026-04-22

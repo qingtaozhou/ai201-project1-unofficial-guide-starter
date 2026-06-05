@@ -1,0 +1,102 @@
+Blog Post: "CS 7641 vs CS 6340: Which ML/AI course should you actually take?"
+Author: Georgia Tech CS Master's Graduate (2025)
+Date: May 2026
+
+Comparison:
+
+I took both 7641 and 6340 as a Master's student. Here's what they are and which one you should prioritize.
+
+**CS 7641 — Machine Learning (Supervised/Unsupervised/RL)**
+
+What it covers:
+- Supervised learning (regression, classification)
+- Unsupervised learning (clustering, dimensionality reduction)
+- Reinforcement learning (Q-learning, policy gradients)
+- Neural networks and deep learning intro
+- Ensemble methods, Bayesian approaches
+
+Vibe: Rigorous, mathematical, extensive. Feels like a university ML course should.
+
+Workload: Heavy (14-16 hrs/week)
+
+Why it matters:
+- If you want to be an ML engineer, this is the foundation course
+- Every ML recruiter expects it on your resume
+- The homework is applied (build decision trees, implement neural nets)
+- You actually understand WHY algorithms work
+
+Math level: High (linear algebra, calculus, probability)
+
+Professor: Isbell teaches it well, fair exams, generous curve
+
+---
+
+**CS 6340 — Artificial Intelligence (Search, Planning, Game Playing)**
+
+What it covers:
+- Search algorithms (BFS, DFS, A*, minimax)
+- Constraint satisfaction problems (backtracking, heuristics)
+- Game playing (adversarial search)
+- Knowledge representation (logic, Bayesian networks)
+- Planning and uncertainty
+
+Vibe: Algorithmic, practical problem-solving. More "implement cool things" than "understand deep theory."
+
+Workload: Medium (11-13 hrs/week)
+
+Why it matters:
+- Broader CS perspective (not just data science)
+- Good for game AI, robotics, planning problems
+- Algorithm design skills are timeless
+- Professor Doroudi is excellent
+
+Math level: Medium (basic probability, logic)
+
+Professor: Doroudi is phenomenal (clear, helpful, organized)
+
+---
+
+**Head-to-Head Comparison:**
+
+| Aspect | 7641 ML | 6340 AI |
+|--------|---------|---------|
+| Difficulty | Hard | Medium |
+| Math burden | Heavy (linalg, calc, prob) | Light (basic prob, logic) |
+| Implementation | Build ML from scratch | Implement algorithms |
+| Time commitment | 15+ hrs/week | 11 hrs/week |
+| Job relevance | Critical for ML roles | Good for breadth |
+| Research relevance | Very high | Moderate |
+| Fun factor | Intellectually satisfying | Algorithm problem-solving |
+| Curve | Generous | Depends on class performance |
+| Professor quality | Excellent | Excellent |
+
+---
+
+**Decision Tree:**
+
+Do you want to work in ML?
+→ YES: Take 7641. Non-negotiable. Take 6340 as second course.
+→ NO, but interested in AI/algorithms: Take 6340, skip 7641.
+→ UNSURE: Take 7641 first. If you enjoy it, continue. If you hate it, 6340 is good pivot.
+
+Are you PhD-track?
+→ YES: Take both. Start with 6505 (algorithms) + 7641. Defer 6340 to second semester.
+→ NO (industry-track): 7641 is essential, 6340 is optional but recommended.
+
+---
+
+**My Personal Take:**
+
+I did 7641 first semester (suffered but learned deeply).
+I did 6340 second semester (enjoyed it more, easier pace).
+
+In retrospect, this order made sense. 7641 is the harder, more essential course. I was fresh and could handle it. 6340 was a nice relief that reinforced broader CS thinking.
+
+If I were advising someone:
+- Do 7641 when you're fresh (ideally semester 1)
+- Do 6340 as a complementary course (semester 1 or 2, doesn't matter)
+- Skip CS 6505 unless PhD-track or masochistic
+
+---
+Source: Personal blog
+Date: May 2026

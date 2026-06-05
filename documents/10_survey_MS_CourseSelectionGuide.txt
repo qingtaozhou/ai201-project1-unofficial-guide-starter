@@ -1,0 +1,78 @@
+Survey: "Georgia Tech CS Master's Students Rate Their Courses"
+Compiled from: r/GATechCS, Discord, Piazza, direct survey responses
+Date: May 2026
+Responses: 62 Master's students
+
+---
+
+**Question 1: Which course should every MS student take?**
+
+Responses ranked by frequency:
+- CS 7641 (ML): 58 mentions (94%)
+- CS 6340 (AI): 28 mentions (45%)
+- CS 6200 (OS): 22 mentions (35%)
+- CS 6505 (Algorithms): 19 mentions (31%, but divisive)
+
+Key quote: "7641 is the only course that pays dividends after graduation. Do it." - Industry intern
+
+**Question 2: What's the hardest course at Tech (Master's level)?**
+
+1. CS 6505 (Algorithms): 31 mentions
+2. CS 7641 (ML): 19 mentions (people found it hard, but fair)
+3. CS 7646 (Trading): 8 mentions (hard but for different reasons — disorganization)
+4. CS 6476 (Vision): 4 mentions
+
+Key quote: "6505 is designed to make you question your life choices. But if you pass, you've proved you can think." - PhD-track student
+
+**Question 3: How should students choose their course load?**
+
+Most common strategy:
+- Take 2 hard + 1 medium course per semester (18 credits)
+- Examples: (7641 + 6505 + 6300) or (7641 + 6340 + 6200)
+- Avoid: 3 hard courses (7641 + 6505 + 7646)
+
+Time estimates they reported:
+- Hard courses: 14-18 hrs/week
+- Medium courses: 10-13 hrs/week
+- Light courses: 7-10 hrs/week
+
+**Question 4: How should industry-track vs PhD-track students choose differently?**
+
+Industry track (FAANG, quant, ML engineering):
+1. CS 7641 (ML) — non-negotiable
+2. CS 6340 (AI) — good breadth
+3. CS 6200 (OS) — systems understanding
+4. Skip: CS 6505 (Algorithms) unless going to PhD later
+
+PhD track (Academia, research):
+1. CS 6505 (Algorithms) — foundational proof techniques
+2. CS 7641 (ML) — research is data-driven
+3. CS 6340 (AI) — foundational AI theory
+4. Skip: CS 7646 (Trading) unless finance research interest
+
+**Question 5: What's the biggest mistake students make?**
+
+Top 3:
+1. Taking too many hard courses at once (38 mentions)
+2. Underestimating 7641 workload (25 mentions)
+3. Comparing themselves to PhD students who have advantages (18 mentions)
+
+Key quotes:
+- "I took 7641 + 6505 at the same time. I aged 10 years in 4 months." - Industry student
+- "The homework for 7641 says 10 hours but takes 20 if you actually understand it." - Master's student
+- "Don't compare yourself to PhD students. They've had a semester to settle in. You're new." - Grad advisor
+
+**Question 6: Professor quality matters — who should you seek out?**
+
+Best rated professors:
+- Isbell (CS 7641): 4.8/5 (comprehensive, fair, cares)
+- Doroudi (CS 6340): 4.7/5 (great teacher, well-organized)
+- Goldberg (CS 6505): 4.5/5 (intimidating but rewarding, fair grading)
+
+Problematic:
+- Bhatia (CS 7646): 3.2/5 (disorganized, great topic, rough execution)
+
+---
+Source: Crowdsourced survey
+Sample size: 62 Master's students
+Date range: Spring 2026

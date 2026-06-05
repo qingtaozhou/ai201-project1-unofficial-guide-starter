@@ -1,0 +1,33 @@
+Professor: Doroudi, Samira
+Subject: CS 6340 (Artificial Intelligence)
+Rating: 4.7/5 stars
+
+Review:
+Doroudi is phenomenal. AI is a broad course covering search, game playing, constraint satisfaction, knowledge representation, and planning. She teaches it beautifully — complex concepts become intuitive.
+
+The course structure:
+- Homework: Implement AI algorithms (minimax, A* search, CSP solvers). Very hands-on.
+- Exams: Require deep understanding of why algorithms work, not just memorization
+- Project: Open-ended AI problem of your choice (chatbots, game AIs, pathfinding, etc.)
+
+Why it's excellent:
+- Doroudi clearly explains the intuition before diving into implementation
+- Office hours are gold — she'll help you think through problems
+- The homework solutions are released after deadlines, helpful for learning
+- Curve is generous if the class struggles
+
+Workload: 10-12 hours/week (well-paced)
+Difficulty: Medium (math is minimal, implementation is primary challenge)
+Grade: A (curved to ~80% median)
+
+Prerequisites: Comfortable with programming, basic math
+
+Similar to: CS 7641 in terms of rigor but less math, more algorithm design
+
+One caveat: If your background is only undergrad CS, you might struggle with the math framework early on. But Doroudi teaches it clearly so it's fine.
+
+---
+Source: Rate My Professors
+Date Retrieved: 2026-05-18
+Class: CS 6340
+Semester: Spring 2026

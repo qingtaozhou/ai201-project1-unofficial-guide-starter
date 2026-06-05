@@ -1,0 +1,57 @@
+Reddit Post: r/GATechCS
+Title: "Honest opinions on grad ML courses: 7641 vs 6340 vs 7646 vs 6505"
+Posted: 2026-05-10
+Upvotes: 287
+
+Post:
+I just finished spring semester and took 3 of these. Here's the real breakdown:
+
+**CS 7641 (ML - Isbell)**
+- Pros: Rigorous, comprehensive, best ML foundation you'll get
+- Cons: Heavy math, time-consuming, brutal exams
+- Best for: Research track, industry ML engineer roles
+- Difficulty: 8/10
+- Time: 15 hrs/week
+- Would I retake: Yes, despite the difficulty
+- Key insight: If you want to UNDERSTAND ML (not just use it), this is it
+
+**CS 6340 (AI - Doroudi)**
+- Pros: Well-taught, algorithms are fun, good for breadth
+- Cons: Less directly applicable to modern ML than 7641
+- Best for: Game AI, robotics, classical AI enthusiasts
+- Difficulty: 5/10 (conceptually easier than 7641)
+- Time: 10-12 hrs/week
+- Would I retake: Yes, it's enjoyable
+- Key insight: 7641 is harder but more essential for ML careers
+
+**CS 7646 (ML for Trading - Bhatia)**
+- Pros: Unique topic, real portfolio project, flexible
+- Cons: Disorganized, grading is a lottery, luck-dependent
+- Best for: Finance track, quant prep, portfolio building
+- Difficulty: 6/10 (not hard, just chaotic)
+- Time: 15-20 hrs/week (inflated by bugs and delays)
+- Would I retake: Maybe. It's fun but frustrating.
+- Key insight: The grade depends as much on market luck as your work
+
+**CS 6505 (Algorithms - Goldberg)**
+- Pros: Foundational, beautiful math, prepares for research
+- Cons: VERY hard, most failed students, high pressure
+- Best for: Research PhD-track students
+- Difficulty: 9/10
+- Time: 20+ hrs/week
+- Would I retake: Only if going to PhD program
+- Key insight: This is a barrier course. If you pass, you know CS deeply.
+
+**Tier-ranked by usefulness for industry:**
+1. 7641 (ML) — necessary for any ML role
+2. 6505 (Algorithms) — if you want to work on systems
+3. 6340 (AI) — great but less directly applicable
+4. 7646 (Trading) — niche, only if finance is your path
+
+**My hot take:**
+If I could only take one, it's 7641. Take 6340 or 7646 as your second depending on your interests, but 7641 is non-negotiable if you want an ML career.
+
+---
+Source: Reddit r/GATechCS
+URL: reddit.com/r/GATechCS/[redacted]
+Date: 2026-05-10

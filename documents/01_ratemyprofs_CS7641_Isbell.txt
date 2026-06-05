@@ -1,0 +1,26 @@
+Professor: Isbell, Charles
+Subject: CS 7641 (Machine Learning)
+Rating: 4.5/5 stars
+
+Review:
+Isbell is one of the best ML professors at Tech. The course covers supervised learning, unsupervised learning, reinforcement learning, and neural networks comprehensively. Lectures are clear and he actually cares about student understanding. The midterm and final are fair but challenging — expect to struggle if you haven't internalized the math.
+
+What makes this course work:
+- Homework is practical (implement algorithms from scratch, not just use scikit-learn)
+- Projects are real ML problems, not toy datasets
+- Isbell releases practice exams and office hours are helpful
+
+Workload: 12-15 hours/week (intense but manageable)
+Difficulty: Medium-High (math-heavy, rigorous)
+Grade: A- (curved, median ~78%)
+Prerequisites: Comfort with linear algebra, probability, calculus
+
+Not recommended if: You want an easy elective or haven't done proof-based math before
+
+Best for: Students serious about ML research or industry roles
+
+---
+Source: Rate My Professors
+Date Retrieved: 2026-05-15
+Class: CS 7641
+Semester: Spring 2026

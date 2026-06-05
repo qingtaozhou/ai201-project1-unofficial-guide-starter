@@ -1,0 +1,91 @@
+Reddit Post: r/gatech
+Title: "CS 7641 exams: What actually matters and how to study"
+Posted: 2026-04-05
+Upvotes: 189
+
+Post:
+Just finished 7641 and want to give back to future students. I got an A and here's what I learned about exam prep.
+
+**What 7641 exams test:**
+
+They're NOT about:
+- Memorizing algorithms
+- Knowing specific implementation tricks
+- Getting perfect homework grades
+
+They ARE about:
+- Understanding WHY algorithms work (not just how)
+- Deriving concepts from first principles
+- Applying algorithms to NEW problems you haven't seen
+- Trade-offs between approaches (when would you use Decision Trees vs Neural Networks?)
+
+**Example exam question I got:**
+"You have a dataset with 10,000 points, 50 features. You want to do classification. Describe your approach: which algorithms would you consider? What are the pros/cons? How would you validate? What preprocessing might help?"
+
+That's it. No formula sheet needed. Just thinking.
+
+**How I actually studied:**
+
+Week 1 (2 weeks before exam):
+- Read lecture slides deeply (not passively)
+- For each algorithm, write down: What problem does it solve? When do you use it? What are failure modes?
+
+Week 2 (1 week before):
+- Work through textbook sections (ESL — Elements of Statistical Learning)
+- Do practice problems (Isbell releases 10-15 past exam questions)
+- Try to solve them without looking at solutions first
+
+Final week:
+- 3-4 practice exams under timed conditions (2 hrs)
+- Identify gaps (algorithm A vs B — when do I choose each?)
+- Office hours to ask clarifying questions
+
+**What didn't help:**
+- Memorizing formulas (waste of time)
+- Watching YouTube tutorials (too passive)
+- Only doing homework (homework is simpler than exams)
+- Cramming the night before (you'll blank on conceptual stuff)
+
+**The math barrier:**
+
+If you haven't done linear algebra and probability in years, you might struggle. But here's the thing: you don't need to MASTER the math. You need to understand:
+- Matrix operations (transposes, inverses, multiplications)
+- Probability basics (distributions, Bayes' theorem, independence)
+- Calculus basics (derivatives for optimization)
+
+Isbell reviews these, but quickly. If you're rusty, self-teach these BEFORE the course starts. (3Blue1Brown on YouTube for linear algebra, 3-4 hours of your time can unlock the whole course.)
+
+**Grade distribution I saw:**
+
+Raw exam scores:
+- Exam 1 median: 54/100
+- Exam 2 median: 58/100
+- Final median: 56/100
+
+After curve (homework + project added):
+- A range: 78-100%
+- B range: 65-77%
+- C range: 50-64%
+
+So if you get 55-60% on exams, homework saves you to a B. This matters.
+
+**Red flags you're studying wrong:**
+
+1. You can regurgitate the algorithm but can't explain why it works
+2. You memorized formulas instead of understanding them
+3. You haven't attempted any exams under timed conditions
+4. You're only reading lecture slides (need to go deeper)
+5. You haven't talked to the professor or TA about exam expectations
+
+**Bottom line:**
+
+7641 is hard but beatable. The trick is understanding concepts (not memorizing), starting early, and being honest with yourself about gaps in math background. If you do that, an A is achievable.
+
+---
+
+Top comment (by CS_industry_recruiter):
+"This. 7641 is the course tech companies look at for ML hiring. Not just that you passed it, but how deeply you understood it. Good explanation of how to actually learn it."
+
+---
+Source: Reddit r/gatech
+Date: 2026-04-05

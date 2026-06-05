@@ -1,0 +1,55 @@
+Piazza Post: CS 7641 (Machine Learning)
+Original Question: "How much should we memorize vs understand?"
+Posted: April 2026
+Instructor Response Votes: 287 endorsements
+
+---
+
+STUDENT QUESTION:
+On the exam, will we be given formulas or expected to derive them? How much memorization is there?
+
+---
+
+INSTRUCTOR RESPONSE (Prof. Isbell):
+
+Great question. The short answer: Memorization is the WRONG approach. The long answer follows.
+
+**What you will have on the exam:**
+- Formula sheet: Yes, one page (both sides). Includes matrix operations, probability distributions, some common ML formulas.
+- Textbook: No, closed book.
+- Notes: No.
+
+**What that means:**
+Since you get a formula sheet, I'm NOT testing whether you memorized formulas. I'm testing whether you can:
+1. Recognize which algorithm/technique applies to a problem
+2. Apply it correctly
+3. Explain why it works
+4. Discuss trade-offs and assumptions
+
+**Example:**
+"Here's a dataset. A classmate suggests using SVM. Do you agree? Why or why not? What's an alternative approach?"
+
+The answer isn't a formula. It's your reasoning.
+
+**How to prepare:**
+- Learn the INTUITION behind each algorithm (not the math)
+- Practice on problems you haven't seen before
+- Be able to explain algorithm choices to someone else
+- Understand failure modes (when does logistic regression break?)
+
+**Math level:**
+You need to understand linear algebra and calculus conceptually. You don't need to prove theorems. Example: knowing that gradient descent moves opposite the gradient and why that works. NOT: deriving the proof that gradient descent converges.
+
+**Common mistakes students make:**
+1. They memorize the algorithm but can't apply it to a new problem
+2. They avoid the math entirely and just focus on code
+3. They don't think about when/why an algorithm fails
+
+**My advice:**
+If you can explain an algorithm to a smart friend who's not in this class, you understand it enough for the exam. If you can only recite it, you're not ready.
+
+The homework is designed to teach understanding, not test memorization. Use it that way.
+
+---
+Source: Piazza (CS 7641 Course Forum)
+Date: April 2026

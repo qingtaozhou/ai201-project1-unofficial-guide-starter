@@ -1,0 +1,32 @@
+Professor: Bhatia, Ashish
+Subject: CS 7646 (Machine Learning for Trading)
+Rating: 3.2/5 stars
+
+Review:
+Controversial course. People either love it or hate it. Bhatia tries to teach ML applied to stock market prediction, but the course has several issues:
+
+Pros:
+- Topic is genuinely interesting and different
+- Real-world applicable (quants/hedge funds use these techniques)
+- Flexible final project (you can implement your own trading strategy)
+
+Cons:
+- Very disorganized. Lectures feel ad-hoc, assignments drop late
+- Grading is subjective. Rubric for the project is vague
+- You basically teach yourself the material (Bhatia provides minimal guidance)
+- Market data quality/availability is an issue
+- Some assignments have bugs that TAs don't fix until weeks later
+
+Workload: 15-20 hours/week (depends on your project ambition)
+Difficulty: Medium (conceptually, not mathematically rigorous)
+Grade: B+ (curved oddly — varies wildly by project)
+
+The hidden challenge: Half your grade is a project where success depends on luck (market conditions) and code quality, not necessarily understanding
+
+Recommendation: Only take if you're genuinely interested in finance ML. If you want solid ML education, take 7641 instead. If you want to build a portfolio project, this is the course for it.
+
+---
+Source: Rate My Professors
+Date Retrieved: 2026-05-20
+Class: CS 7646
+Semester: Spring 2026

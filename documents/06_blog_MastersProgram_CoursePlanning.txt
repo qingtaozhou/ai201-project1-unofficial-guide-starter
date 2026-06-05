@@ -1,0 +1,93 @@
+Blog Post: "Surviving Georgia Tech Master's Program: Course Selection & Time Management"
+Author: Georgia Tech OMSA + CS Master's Student
+Date: April 2026
+
+Excerpt (Full Post):
+
+I'm finishing my second semester of a CS Master's degree at Georgia Tech. I also did a summer internship and worked part-time last semester. Here's what I've learned about course selection and surviving the workload.
+
+**The Mistake I Almost Made:**
+
+Going into my first semester, I signed up for:
+- CS 7641 (ML)
+- CS 6505 (Algorithms)
+- CS 6291 (Computer Vision)
+
+That's 36 credit hours of graduate-level courses. I was warned by an advisor: "That's too much. You'll burn out."
+
+I ignored them because I wanted to graduate fast. By week 3, I realized I was drowning. I dropped CS 6505 and added it for spring. Best decision I made.
+
+**What I Learned About Workload:**
+
+Graduate CS courses are NOT like undergrad. Here's the reality:
+
+- Each course needs 12-15 hours/week of outside work
+- "Lab" courses (CS 7641, CS 7646) require programming from scratch, not guided assignments
+- Theory courses (CS 6505, CS 6340) require proof-writing and mathematical thinking
+- There's minimal hand-holding compared to undergrad
+
+**Smart Course Combinations (18 credit hours = 3 courses):**
+
+GOOD combo:
+- CS 7641 (ML, heavy) + CS 6340 (AI, medium) + CS 6300 (SWE, lighter coding)
+→ Balances math-heavy with implementation
+
+BAD combo:
+- CS 6505 (theory) + CS 7641 (ML, theory-heavy) + CS 7646 (project-heavy)
+→ All demanding, all different skill sets needed simultaneously
+
+MEDIUM combo:
+- CS 7641 (ML) + CS 6291 (Vision) + CS 6404 (Parallel Computing)
+→ Heavy but coherent (all systems/ML track)
+
+**Time Management Reality Check:**
+
+I tracked my hours last semester:
+- 7641: 14 hrs/week (exams compress it to 20 hrs during exam weeks)
+- 6340: 11 hrs/week
+- 6300: 8 hrs/week (lighter)
+
+That's 33 hours PLUS attending class (3 hrs). Plus I worked 10 hrs/week part-time.
+
+By the end: I got A's in 7641 and 6340, but I was exhausted. Don't be me.
+
+**What Professors DON'T Tell You:**
+
+1. Most professors assume you have research experience (you don't)
+2. The homework is often harder than what they present in lectures
+3. There's no "easy" grade — everyone has to earn it
+4. Curves exist but don't count on them
+5. Office hours are 80% PhD students, 20% Master's students (you'll feel out of place)
+
+**Courses I Recommend vs. Avoid:**
+
+TAKE:
+- CS 7641 (ML) — if you want an ML career, non-negotiable
+- CS 6340 (AI) — great breadth, well-taught
+- CS 6200 (OS) — solid systems foundation
+
+AVOID unless committed:
+- CS 6505 (Algorithms) — only if theory matters for your goals
+- CS 7646 (Trading) — only if you're interested in finance
+- CS 6476 (Computer Vision) — very project-heavy, time sink
+
+SKIP:
+- Courses without clear relevance to your goal (you don't have time for exploration)
+
+**My Recommendation for Time-Strapped Students:**
+
+Take 2 hard courses + 1 medium course per semester.
+
+Hard: 7641, 6505, 6476 (project-heavy vision)
+Medium: 6340, 6200, 6291, 6300
+Light: 6100 (Security), 6001 (Bio)
+
+This way you make progress but don't burn out.
+
+**One More Thing:**
+
+The grad program is NOT like undergrad where you can recover with a last-minute grind. Concepts build incrementally. If you fall behind in week 2 of 7641, you'll be lost by midterm. Start assignments early. Attend lectures. Don't skip.
+
+---
+Source: Personal blog
+Date: April 2026
