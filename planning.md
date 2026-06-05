@@ -52,13 +52,14 @@
 - **Survey/compilation** (doc 10): 700–900 words, Q&A format with bullet-pointed responses
 - **Career perspective** (doc 12): 1000–1400 words, narrative with embedded decision tables
 
-**Chunk size:** 300 characters (~75-100 tokens) with 50-chracter overlap
+**Chunk size:** 600 characters (~150-200 tokens) with 100-character overlap
 
-**Overlap:**50 characters to bridge sentence boundaries and perserve context across section breaks
+**Overlap:** 100 characters to bridge sentence boundaries and preserve context across section breaks
 
 **Reasoning:**
-- Most reviews fit in 1-2 chunks; small chunks prevent burying key info (e.g., "this professor is disorganized" shouldn't be split)
-- Comparison posts have tiers/rankings (e.g., "Tier 1: 7641, 6505") that must stay together; overlap preserves these across chunks
+- Most reviews fit in 1-3 chunks; chunks remain small enough for targeted retrieval while carrying enough semantic context for exam-recovery and course-planning advice.
+- Comparison posts have tiers/rankings (e.g., "Tier 1: 7641, 6505") that must stay together; overlap preserves these across chunks.
+- Retrieval testing with 300-character chunks pulled loosely related exam-prep content for the CS 6505 recovery query. Increasing to 600 characters kept the question, instructor response, and recovery steps together, improving relevance.
 
 
 
@@ -150,7 +151,7 @@ Returns chunks with metadata: {text, source_file, chunk_id, start_char, end_char
 ```
 Document Ingestion (Python File 1/O)
            ↓
-Chunking (300 char chuns, 50 char overlap)
+Chunking (600 char chunks, 100 char overlap)
           ↓
 Embedding (sentence-transformers all-MiniLM-L6-v2)
           ↓
@@ -167,7 +168,7 @@ Response (with soure citations)
 
 **Pipeline details:**
 1. **Ingestion**: Load `.txt` files from `documents/` folder; preserve source metadata (Professor, Course, Date, Source type)
-2. **Chunking**: Split by 300-character windows with 50-char overlap; try list-aware splitting (keep numbered steps together)
+2. **Chunking**: Split by 600-character windows with 100-char overlap; try list-aware splitting (keep numbered steps together)
 3. **Embedding**: Convert chunks → 384-dim vectors using MiniLM
 4. **Storage**: Index in ChromaDB with metadata (source, course code, professor name, date)
 5. **Retrieval**: Given user query, embed query, search top-5 chunks by cosine similarity

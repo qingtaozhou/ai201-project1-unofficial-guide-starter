@@ -8,8 +8,8 @@ import re
 from ingest import load_documents
 
 
-DEFAULT_CHUNK_SIZE = 300
-DEFAULT_OVERLAP = 50
+DEFAULT_CHUNK_SIZE = 600
+DEFAULT_OVERLAP = 100
 TIER_HEADER_RE = re.compile(r"(?im)^(?:\*\*)?\s*(?:Tier\s+\d+|Tier-ranked)[^\n]*")
 HEADING_RE = re.compile(r"(?m)^(?:\*\*[^*\n]+:\*\*|#{1,6}\s+.+)$")
 NUMBERED_LINE_RE = re.compile(r"(?m)^\s*\d+[\.\)]\s+")
@@ -141,7 +141,7 @@ def _snap_start_to_readable_boundary(text, target_start, max_extra_overlap=160):
 def chunk_text(text, chunk_size=DEFAULT_CHUNK_SIZE, overlap=DEFAULT_OVERLAP, preserve_tiers=True):
     """Split text into chunks using the configured size and overlap.
 
-    Chunks normally use a 300-character sliding window with 50 characters of
+    Chunks normally use a 600-character sliding window with 100 characters of
     overlap. When preserve_tiers is enabled, boundaries are extended so tier
     sections and numbered-list blocks remain intact.
     """
