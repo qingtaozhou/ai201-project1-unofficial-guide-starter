@@ -159,7 +159,7 @@ Vector Store (ChromaDB)
           ↓
 Retrieval (Top-5 similarity search)
           ↓
-Generation (Groq LLM mixtral-8x7b)
+Generation (Groq LLM llama-3.3-70b-versatile)
           ↓
 Response (with soure citations)
 ```
@@ -172,8 +172,8 @@ Response (with soure citations)
 3. **Embedding**: Convert chunks → 384-dim vectors using MiniLM
 4. **Storage**: Index in ChromaDB with metadata (source, course code, professor name, date)
 5. **Retrieval**: Given user query, embed query, search top-5 chunks by cosine similarity
-6. **Generation**: Pass retrieved chunks + query to Groq LLM with grounding prompt (e.g., "Use only the following documents to answer. If conflicting opinions exist, note that multiple students reported different experiences.")
-7. **Response**: Return LLM answer with per-chunk source citations (e.g., "[Source: r/GATechCS, 287 upvotes]")
+6. **Generation**: Pass retrieved chunks + query to Groq `llama-3.3-70b-versatile` with a grounding prompt: answer only from retrieved chunks, use no outside knowledge, and say "I don't have enough information on that." when context is insufficient.
+7. **Response**: Return answer text plus a programmatic source list built from retrieved chunk metadata.
 ---
 
 **Milestone 3 — Ingestion and chunking:**
