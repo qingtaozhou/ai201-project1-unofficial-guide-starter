@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+**Georgia Tech graduate CS/ML course reviews and selection guidance** — Master's students face critical course-selection decisions with limited visibility into actual workload, professor quality, and career relevance. Official course descriptions don't capture: which hard courses (7641, 6505) are worth the pain; how to balance workload across semesters; which professors teach the same course drastically differently; whether a course helps industry recruiting vs research. This knowledge is scattered across Rate My Professors, Reddit threads, Discord servers, student blogs, and Piazza posts. A searchable guide consolidates real graduate student experiences to help peers make informed decisions about course timing, professor choice, and study strategies.
+
 ---
 
 ## Documents
@@ -20,16 +22,19 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Professors | Prof. Isbell (CS 7641 ML) review — rigorous, comprehensive, fair | documents/01_ratemyprofs_CS7641_Isbell.txt |
+| 2 | Rate My Professors | Prof. Bhatia (CS 7646 Trading) review — interesting but disorganized | documents/02_ratemyprofs_CS7646_Bhatia.txt |
+| 3 | Rate My Professors | Prof. Doroudi (CS 6340 AI) review — excellent teaching, well-paced | documents/03_ratemyprofs_CS6340_Doroudi.txt |
+| 4 | r/GATechCS | Thread: "Grad ML course ranking: 7641 vs 6340 vs 7646 vs 6505" | documents/04_reddit_gatechcs_gradcoursecomparison.txt |
+| 5 | r/gatech | Thread: "CS 6505 Algorithms destroying me — recovery strategies" | documents/05_reddit_gatech_CS6505_struggling.txt |
+| 6 | Blog (Medium-style) | "Master's program survival guide — course planning and time management" | documents/06_blog_MastersProgram_CoursePlanning.txt |
+| 7 | Discord | GT CS Master's server — 7641 vs 6340 discussion and pairing advice | documents/07_discord_CS_7641_Discussion.txt |
+| 8 | Reddit | High-engagement post: "CS 7641 exams — what matters and how to study" | documents/08_reddit_CS7641_ExamTips.txt |
+| 9 | Piazza | Instructor (Prof. Isbell): "Memorization vs understanding on exams" | documents/09_piazza_CS7641_StudyGuidance.txt |
+| 10 | Survey compilation | "CS Master's students rate courses" — 62 responses, course selection patterns | documents/10_survey_MS_CourseSelectionGuide.txt |
+| 11 | Blog | "CS 7641 vs CS 6340: Which ML/AI course to prioritize" — detailed comparison | documents/11_blog_7641_vs_6340.txt |
+| 12 | Blind | Tech industry perspective: "MS degree worth it? Career outcomes and course strategy" | documents/12_blind_MS_CareerReality.txt |
+
 
 ---
 
