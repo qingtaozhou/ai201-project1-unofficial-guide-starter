@@ -1,0 +1,2280 @@
+[
+  {
+    "text": "Professor: Isbell, Charles\nSubject: CS 7641 (Machine Learning)\nRating: 4.5/5 stars\nReview:\nIsbell is one of the best ML professors at Tech. The course covers supervised learning, unsupervised learning, reinforcement learning, and neural networks comprehensively. ",
+    "source_file": "01_ratemyprofs_CS7641_Isbell.txt",
+    "source_path": "documents/01_ratemyprofs_CS7641_Isbell.txt",
+    "chunk_id": "01_001",
+    "start_char": 0,
+    "end_char": 263,
+    "document_sequence": 1,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Rate My Professors",
+    "date": "2026-05-15"
+  },
+  {
+    "text": "The course covers supervised learning, unsupervised learning, reinforcement learning, and neural networks comprehensively. Lectures are clear and he actually cares about student understanding. The midterm and final are fair but challenging \u2014 expect to struggle if you haven't internalized the math.\n",
+    "source_file": "01_ratemyprofs_CS7641_Isbell.txt",
+    "source_path": "documents/01_ratemyprofs_CS7641_Isbell.txt",
+    "chunk_id": "01_002",
+    "start_char": 140,
+    "end_char": 439,
+    "document_sequence": 1,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Rate My Professors",
+    "date": "2026-05-15"
+  },
+  {
+    "text": "The midterm and final are fair but challenging \u2014 expect to struggle if you haven't internalized the math.\nWhat makes this course work:\n- Homework is practical (implement algorithms from scratch, not just use scikit-learn)\n- Projects are real ML problems, not toy datasets\n",
+    "source_file": "01_ratemyprofs_CS7641_Isbell.txt",
+    "source_path": "documents/01_ratemyprofs_CS7641_Isbell.txt",
+    "chunk_id": "01_003",
+    "start_char": 333,
+    "end_char": 605,
+    "document_sequence": 1,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Rate My Professors",
+    "date": "2026-05-15"
+  },
+  {
+    "text": "- Projects are real ML problems, not toy datasets\n- Isbell releases practice exams and office hours are helpful\nWorkload: 12-15 hours/week (intense but manageable)\nDifficulty: Medium-High (math-heavy, rigorous)\nGrade: A- (curved, median ~78%)\n",
+    "source_file": "01_ratemyprofs_CS7641_Isbell.txt",
+    "source_path": "documents/01_ratemyprofs_CS7641_Isbell.txt",
+    "chunk_id": "01_004",
+    "start_char": 555,
+    "end_char": 798,
+    "document_sequence": 1,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Rate My Professors",
+    "date": "2026-05-15"
+  },
+  {
+    "text": "Difficulty: Medium-High (math-heavy, rigorous)\nGrade: A- (curved, median ~78%)\nPrerequisites: Comfort with linear algebra, probability, calculus\nNot recommended if: You want an easy elective or haven't done proof-based math before\nBest for: Students serious about ML research or industry roles\n---\n",
+    "source_file": "01_ratemyprofs_CS7641_Isbell.txt",
+    "source_path": "documents/01_ratemyprofs_CS7641_Isbell.txt",
+    "chunk_id": "01_005",
+    "start_char": 719,
+    "end_char": 1017,
+    "document_sequence": 1,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Rate My Professors",
+    "date": "2026-05-15"
+  },
+  {
+    "text": "Best for: Students serious about ML research or industry roles\n---\nSource: Rate My Professors\nDate Retrieved: 2026-05-15\nClass: CS 7641\nSemester: Spring 2026",
+    "source_file": "01_ratemyprofs_CS7641_Isbell.txt",
+    "source_path": "documents/01_ratemyprofs_CS7641_Isbell.txt",
+    "chunk_id": "01_006",
+    "start_char": 950,
+    "end_char": 1107,
+    "document_sequence": 1,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Rate My Professors",
+    "date": "2026-05-15"
+  },
+  {
+    "text": "Professor: Bhatia, Ashish\nSubject: CS 7646 (Machine Learning for Trading)\nRating: 3.2/5 stars\nReview:\nControversial course. People either love it or hate it. Bhatia tries to teach ML applied to stock market prediction, but the course has several issues:\nPros:\n",
+    "source_file": "02_ratemyprofs_CS7646_Bhatia.txt",
+    "source_path": "documents/02_ratemyprofs_CS7646_Bhatia.txt",
+    "chunk_id": "02_001",
+    "start_char": 0,
+    "end_char": 260,
+    "document_sequence": 2,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": "Bhatia",
+    "source": "Rate My Professors",
+    "date": "2026-05-20"
+  },
+  {
+    "text": "Bhatia tries to teach ML applied to stock market prediction, but the course has several issues:\nPros:\n- Topic is genuinely interesting and different\n- Real-world applicable (quants/hedge funds use these techniques)\n- Flexible final project (you can implement your own trading strategy)\nCons:\n",
+    "source_file": "02_ratemyprofs_CS7646_Bhatia.txt",
+    "source_path": "documents/02_ratemyprofs_CS7646_Bhatia.txt",
+    "chunk_id": "02_002",
+    "start_char": 158,
+    "end_char": 450,
+    "document_sequence": 2,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": "Bhatia",
+    "source": "Rate My Professors",
+    "date": "2026-05-20"
+  },
+  {
+    "text": "- Flexible final project (you can implement your own trading strategy)\nCons:\n- Very disorganized. Lectures feel ad-hoc, assignments drop late\n- Grading is subjective. Rubric for the project is vague\n- You basically teach yourself the material (Bhatia provides minimal guidance)\n",
+    "source_file": "02_ratemyprofs_CS7646_Bhatia.txt",
+    "source_path": "documents/02_ratemyprofs_CS7646_Bhatia.txt",
+    "chunk_id": "02_003",
+    "start_char": 373,
+    "end_char": 651,
+    "document_sequence": 2,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": "Bhatia",
+    "source": "Rate My Professors",
+    "date": "2026-05-20"
+  },
+  {
+    "text": "- You basically teach yourself the material (Bhatia provides minimal guidance)\n- Market data quality/availability is an issue\n- Some assignments have bugs that TAs don't fix until weeks later\nWorkload: 15-20 hours/week (depends on your project ambition)\n",
+    "source_file": "02_ratemyprofs_CS7646_Bhatia.txt",
+    "source_path": "documents/02_ratemyprofs_CS7646_Bhatia.txt",
+    "chunk_id": "02_004",
+    "start_char": 572,
+    "end_char": 826,
+    "document_sequence": 2,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": "Bhatia",
+    "source": "Rate My Professors",
+    "date": "2026-05-20"
+  },
+  {
+    "text": "Workload: 15-20 hours/week (depends on your project ambition)\nDifficulty: Medium (conceptually, not mathematically rigorous)\nGrade: B+ (curved oddly \u2014 varies wildly by project)\n",
+    "source_file": "02_ratemyprofs_CS7646_Bhatia.txt",
+    "source_path": "documents/02_ratemyprofs_CS7646_Bhatia.txt",
+    "chunk_id": "02_005",
+    "start_char": 764,
+    "end_char": 941,
+    "document_sequence": 2,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": "Bhatia",
+    "source": "Rate My Professors",
+    "date": "2026-05-20"
+  },
+  {
+    "text": "Grade: B+ (curved oddly \u2014 varies wildly by project)\nThe hidden challenge: Half your grade is a project where success depends on luck (market conditions) and code quality, not necessarily understanding\nRecommendation: Only take if you're genuinely interested in finance ML. ",
+    "source_file": "02_ratemyprofs_CS7646_Bhatia.txt",
+    "source_path": "documents/02_ratemyprofs_CS7646_Bhatia.txt",
+    "chunk_id": "02_006",
+    "start_char": 889,
+    "end_char": 1162,
+    "document_sequence": 2,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": "Bhatia",
+    "source": "Rate My Professors",
+    "date": "2026-05-20"
+  },
+  {
+    "text": "Recommendation: Only take if you're genuinely interested in finance ML. If you want solid ML education, take 7641 instead. If you want to build a portfolio project, this is the course for it.\n---\nSource: Rate My Professors\nDate Retrieved: 2026-05-20\nClass: CS 7646\nSemester: Spring 2026",
+    "source_file": "02_ratemyprofs_CS7646_Bhatia.txt",
+    "source_path": "documents/02_ratemyprofs_CS7646_Bhatia.txt",
+    "chunk_id": "02_007",
+    "start_char": 1090,
+    "end_char": 1376,
+    "document_sequence": 2,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": "Bhatia",
+    "source": "Rate My Professors",
+    "date": "2026-05-20"
+  },
+  {
+    "text": "Professor: Doroudi, Samira\nSubject: CS 6340 (Artificial Intelligence)\nRating: 4.7/5 stars\nReview:\nDoroudi is phenomenal. AI is a broad course covering search, game playing, constraint satisfaction, knowledge representation, and planning. ",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_001",
+    "start_char": 0,
+    "end_char": 238,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS6340"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "AI is a broad course covering search, game playing, constraint satisfaction, knowledge representation, and planning. She teaches it beautifully \u2014 complex concepts become intuitive.\nThe course structure:\n- Homework: Implement AI algorithms (minimax, A* search, CSP solvers). Very hands-on.\n",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_002",
+    "start_char": 121,
+    "end_char": 410,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS6340",
+      "CS7641"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "- Homework: Implement AI algorithms (minimax, A* search, CSP solvers). Very hands-on.\n- Exams: Require deep understanding of why algorithms work, not just memorization\n- Project: Open-ended AI problem of your choice (chatbots, game AIs, pathfinding, etc.)\nWhy it's excellent:\n",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_003",
+    "start_char": 324,
+    "end_char": 600,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS6340",
+      "CS7641"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "- Project: Open-ended AI problem of your choice (chatbots, game AIs, pathfinding, etc.)\nWhy it's excellent:\n- Doroudi clearly explains the intuition before diving into implementation\n- Office hours are gold \u2014 she'll help you think through problems\n",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_004",
+    "start_char": 492,
+    "end_char": 740,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS6340",
+      "CS7641"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "- Office hours are gold \u2014 she'll help you think through problems\n- The homework solutions are released after deadlines, helpful for learning\n- Curve is generous if the class struggles\nWorkload: 10-12 hours/week (well-paced)\nDifficulty: Medium (math is minimal, implementation is primary challenge)\n",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_005",
+    "start_char": 675,
+    "end_char": 973,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS6340",
+      "CS7641"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "Difficulty: Medium (math is minimal, implementation is primary challenge)\nGrade: A (curved to ~80% median)\nPrerequisites: Comfortable with programming, basic math\nSimilar to: CS 7641 in terms of rigor but less math, more algorithm design\n",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_006",
+    "start_char": 899,
+    "end_char": 1137,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "Similar to: CS 7641 in terms of rigor but less math, more algorithm design\nOne caveat: If your background is only undergrad CS, you might struggle with the math framework early on. But Doroudi teaches it clearly so it's fine.\n---\nSource: Rate My Professors\nDate Retrieved: 2026-05-18\nClass: CS 6340\n",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_007",
+    "start_char": 1062,
+    "end_char": 1361,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS6340",
+      "CS7641"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "Source: Rate My Professors\nDate Retrieved: 2026-05-18\nClass: CS 6340\nSemester: Spring 2026",
+    "source_file": "03_ratemyprofs_CS6340_Doroudi.txt",
+    "source_path": "documents/03_ratemyprofs_CS6340_Doroudi.txt",
+    "chunk_id": "03_008",
+    "start_char": 1292,
+    "end_char": 1382,
+    "document_sequence": 3,
+    "course_codes": [
+      "CS6340"
+    ],
+    "professor": "Doroudi",
+    "source": "Rate My Professors",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "Reddit Post: r/GATechCS\nTitle: \"Honest opinions on grad ML courses: 7641 vs 6340 vs 7646 vs 6505\"\nPosted: 2026-05-10\nUpvotes: 287\nPost:\nI just finished spring semester and took 3 of these. Here's the real breakdown:\n**CS 7641 (ML - Isbell)**\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_001",
+    "start_char": 0,
+    "end_char": 242,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "Here's the real breakdown:\n**CS 7641 (ML - Isbell)**\n- Pros: Rigorous, comprehensive, best ML foundation you'll get\n- Cons: Heavy math, time-consuming, brutal exams\n- Best for: Research track, industry ML engineer roles\n- Difficulty: 8/10\n- Time: 15 hrs/week\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_002",
+    "start_char": 189,
+    "end_char": 448,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "- Best for: Research track, industry ML engineer roles\n- Difficulty: 8/10\n- Time: 15 hrs/week\n- Would I retake: Yes, despite the difficulty\n- Key insight: If you want to UNDERSTAND ML (not just use it), this is it\n**CS 6340 (AI - Doroudi)**\n- Pros: Well-taught, algorithms are fun, good for breadth\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_003",
+    "start_char": 354,
+    "end_char": 653,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS6340"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "- Pros: Well-taught, algorithms are fun, good for breadth\n- Cons: Less directly applicable to modern ML than 7641\n- Best for: Game AI, robotics, classical AI enthusiasts\n- Difficulty: 5/10 (conceptually easier than 7641)\n- Time: 10-12 hrs/week\n- Would I retake: Yes, it's enjoyable\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_004",
+    "start_char": 595,
+    "end_char": 877,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "- Time: 10-12 hrs/week\n- Would I retake: Yes, it's enjoyable\n- Key insight: 7641 is harder but more essential for ML careers\n**CS 7646 (ML for Trading - Bhatia)**\n- Pros: Unique topic, real portfolio project, flexible\n- Cons: Disorganized, grading is a lottery, luck-dependent\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_005",
+    "start_char": 816,
+    "end_char": 1093,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "- Cons: Disorganized, grading is a lottery, luck-dependent\n- Best for: Finance track, quant prep, portfolio building\n- Difficulty: 6/10 (not hard, just chaotic)\n- Time: 15-20 hrs/week (inflated by bugs and delays)\n- Would I retake: Maybe. It's fun but frustrating.\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_006",
+    "start_char": 1034,
+    "end_char": 1299,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "- Would I retake: Maybe. It's fun but frustrating.\n- Key insight: The grade depends as much on market luck as your work\n**CS 6505 (Algorithms - Goldberg)**\n- Pros: Foundational, beautiful math, prepares for research\n- Cons: VERY hard, most failed students, high pressure\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_007",
+    "start_char": 1248,
+    "end_char": 1519,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "- Cons: VERY hard, most failed students, high pressure\n- Best for: Research PhD-track students\n- Difficulty: 9/10\n- Time: 20+ hrs/week\n- Would I retake: Only if going to PhD program\n- Key insight: This is a barrier course. If you pass, you know CS deeply.\n**Tier-ranked by usefulness for industry:**\n1. 7641 (ML) \u2014 necessary for any ML role\n2. 6505 (Algorithms) \u2014 if you want to work on systems\n3. 6340 (AI) \u2014 great but less directly applicable\n4. 7646 (Trading) \u2014 niche, only if finance is your path\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_008",
+    "start_char": 1464,
+    "end_char": 1965,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "7646 (Trading) \u2014 niche, only if finance is your path\n**My hot take:**\nIf I could only take one, it's 7641. Take 6340 or 7646 as your second depending on your interests, but 7641 is non-negotiable if you want an ML career.\n---\nSource: Reddit r/GATechCS\nURL: reddit.com/r/GATechCS/[redacted]\n",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_009",
+    "start_char": 1912,
+    "end_char": 2202,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "Source: Reddit r/GATechCS\nURL: reddit.com/r/GATechCS/[redacted]\nDate: 2026-05-10",
+    "source_file": "04_reddit_gatechcs_gradcoursecomparison.txt",
+    "source_path": "documents/04_reddit_gatechcs_gradcoursecomparison.txt",
+    "chunk_id": "04_010",
+    "start_char": 2138,
+    "end_char": 2218,
+    "document_sequence": 4,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Reddit r/GATechCS",
+    "date": "2026-05-10"
+  },
+  {
+    "text": "Reddit Post: r/gatech\nTitle: \"CS 6505 (Algorithms) is destroying me. How do I even pass this?\"\nPosted: 2026-04-22\nUpvotes: 156\nPost:\nI'm a Master's student and took CS 6505 (Algorithms/Computability) with Goldberg. I've never been more stressed about a course. Here's my situation:\n",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_001",
+    "start_char": 0,
+    "end_char": 282,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "I've never been more stressed about a course. Here's my situation:\nExam 1: 48/100 (class median was 52)\nExam 2 (midterm): 52/100 (I improved slightly but still below median)\nHomework: 85% (okay)\nCurrent grade: D+ (hurting)\nThe course is:\n- NP-completeness proofs\n- Polynomial reduction\n",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_002",
+    "start_char": 215,
+    "end_char": 501,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "The course is:\n- NP-completeness proofs\n- Polynomial reduction\n- Approximation algorithms\n- Advanced graph algorithms\nThe problem: The textbook (CLRS) is dense. Goldberg's lectures are fast. Exams ask you to PROVE new things you haven't seen before, not just apply algorithms from class.\n",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_003",
+    "start_char": 438,
+    "end_char": 726,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "Exams ask you to PROVE new things you haven't seen before, not just apply algorithms from class.\nPeople who are passing:\n- PhD students (they've seen this material before)\n- People with strong discrete math background\n- Students who are genuinely passionate about theory\nI'm not any of those. ",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_004",
+    "start_char": 629,
+    "end_char": 922,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "- Students who are genuinely passionate about theory\nI'm not any of those. I'm a master's student who just wanted a solid CS foundation. I'm getting crushed.\nQuestions:\n1. Is there any way to recover?\n2. Should I drop?\n3. What's the curve like?\n---\nINSTRUCTOR RESPONSE (Prof. Goldberg):\n",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_005",
+    "start_char": 847,
+    "end_char": 1134,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "What's the curve like?\n---\nINSTRUCTOR RESPONSE (Prof. Goldberg):\nThe course is designed to be challenging. The exams require you to think, not memorize. If you're struggling, I recommend:\n1. Form study groups with classmates\n2. Read the CLRS proofs deeply, don't skim\n3. Come to my office hours\n4. The curve exists \u2014 don't panic at raw scores\n",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_006",
+    "start_char": 1069,
+    "end_char": 1412,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "Come to my office hours\n4. The curve exists \u2014 don't panic at raw scores\nThe median on Exam 2 was 52, which curved to ~68%. So you're not alone.\n---\nTOP COMMENT (by CS_PhD_2024):\n\"Dropped it after exam 1. ",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_007",
+    "start_char": 1340,
+    "end_char": 1544,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "TOP COMMENT (by CS_PhD_2024):\n\"Dropped it after exam 1. Retook it the next year and did better, but honestly, it's designed for PhD students or people with theory backgrounds. If you don't plan on doing research, 6505 is a waste of your time. Take 7641 instead.\"\nANOTHER COMMENT (by got_a_C):\n",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_008",
+    "start_char": 1488,
+    "end_char": 1781,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "Take 7641 instead.\"\nANOTHER COMMENT (by got_a_C):\n\"I got a C in 6505. It was the worst semester of my life. But honestly, I learned more in that course than any other. The struggle was the point. If you can push through, the understanding sticks. ",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_009",
+    "start_char": 1731,
+    "end_char": 1978,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "If you can push through, the understanding sticks. But it's okay to drop if your GPA matters for recruiting.\"\n---\nENCOURAGEMENT (by grad_2023):\n\"I bombed exam 1 (40). Got a B in the course. Here's what worked:\n1. Study old exams obsessively\n2. Do practice proofs every day for 30 mins\n3. Talk to Goldberg about problem types\n4. Don't compare yourself to PhD students \u2014 they have advantages\n5. The curve is real. Trust it.\n",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_010",
+    "start_char": 1927,
+    "end_char": 2349,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "Don't compare yourself to PhD students \u2014 they have advantages\n5. The curve is real. Trust it.\nYou've got time. Don't give up yet.\"\n---\nSource: Reddit r/gatech\nDate: 2026-04-22",
+    "source_file": "05_reddit_gatech_CS6505_struggling.txt",
+    "source_path": "documents/05_reddit_gatech_CS6505_struggling.txt",
+    "chunk_id": "05_011",
+    "start_char": 2255,
+    "end_char": 2430,
+    "document_sequence": 5,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-22"
+  },
+  {
+    "text": "Blog Post: \"Surviving Georgia Tech Master's Program: Course Selection & Time Management\"\nAuthor: Georgia Tech OMSA + CS Master's Student\nDate: April 2026\nExcerpt (Full Post):\nI'm finishing my second semester of a CS Master's degree at Georgia Tech. ",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_001",
+    "start_char": 0,
+    "end_char": 249,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6291",
+      "CS6300",
+      "CS6340",
+      "CS6404",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "I'm finishing my second semester of a CS Master's degree at Georgia Tech. I also did a summer internship and worked part-time last semester. Here's what I've learned about course selection and surviving the workload.\n**The Mistake I Almost Made:**\nGoing into my first semester, I signed up for:\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_002",
+    "start_char": 175,
+    "end_char": 470,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6291",
+      "CS6300",
+      "CS6340",
+      "CS6404",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "**The Mistake I Almost Made:**\nGoing into my first semester, I signed up for:\n- CS 7641 (ML)\n- CS 6505 (Algorithms)\n- CS 6291 (Computer Vision)\nThat's 36 credit hours of graduate-level courses. I was warned by an advisor: \"That's too much. You'll burn out.\"\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_003",
+    "start_char": 392,
+    "end_char": 650,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6291",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "I was warned by an advisor: \"That's too much. You'll burn out.\"\nI ignored them because I wanted to graduate fast. By week 3, I realized I was drowning. I dropped CS 6505 and added it for spring. Best decision I made.\n**What I Learned About Workload:**\nGraduate CS courses are NOT like undergrad. ",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_004",
+    "start_char": 586,
+    "end_char": 882,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "**What I Learned About Workload:**\nGraduate CS courses are NOT like undergrad. Here's the reality:\n- Each course needs 12-15 hours/week of outside work\n- \"Lab\" courses (CS 7641, CS 7646) require programming from scratch, not guided assignments\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_005",
+    "start_char": 803,
+    "end_char": 1047,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "- \"Lab\" courses (CS 7641, CS 7646) require programming from scratch, not guided assignments\n- Theory courses (CS 6505, CS 6340) require proof-writing and mathematical thinking\n- There's minimal hand-holding compared to undergrad\n**Smart Course Combinations (18 credit hours = 3 courses):**\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_006",
+    "start_char": 955,
+    "end_char": 1245,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "**Smart Course Combinations (18 credit hours = 3 courses):**\nGOOD combo:\n- CS 7641 (ML, heavy) + CS 6340 (AI, medium) + CS 6300 (SWE, lighter coding)\n\u2192 Balances math-heavy with implementation\nBAD combo:\n- CS 6505 (theory) + CS 7641 (ML, theory-heavy) + CS 7646 (project-heavy)\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_007",
+    "start_char": 1184,
+    "end_char": 1461,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6300",
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "- CS 6505 (theory) + CS 7641 (ML, theory-heavy) + CS 7646 (project-heavy)\n\u2192 All demanding, all different skill sets needed simultaneously\nMEDIUM combo:\n- CS 7641 (ML) + CS 6291 (Vision) + CS 6404 (Parallel Computing)\n\u2192 Heavy but coherent (all systems/ML track)\n**Time Management Reality Check:**\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_008",
+    "start_char": 1387,
+    "end_char": 1683,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6291",
+      "CS6404",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "\u2192 Heavy but coherent (all systems/ML track)\n**Time Management Reality Check:**\nI tracked my hours last semester:\n- 7641: 14 hrs/week (exams compress it to 20 hrs during exam weeks)\n- 6340: 11 hrs/week\n- 6300: 8 hrs/week (lighter)\nThat's 33 hours PLUS attending class (3 hrs). ",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_009",
+    "start_char": 1604,
+    "end_char": 1880,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6291",
+      "CS6300",
+      "CS6340",
+      "CS6404",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "- 6300: 8 hrs/week (lighter)\nThat's 33 hours PLUS attending class (3 hrs). Plus I worked 10 hrs/week part-time.\nBy the end: I got A's in 7641 and 6340, but I was exhausted. Don't be me.\n**What Professors DON'T Tell You:**\n1. Most professors assume you have research experience (you don't)\n2. The homework is often harder than what they present in lectures\n3. There's no \"easy\" grade \u2014 everyone has to earn it\n4. Curves exist but don't count on them\n5. Office hours are 80% PhD students, 20% Master's students (you'll feel out of place)\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_010",
+    "start_char": 1805,
+    "end_char": 2341,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6291",
+      "CS6300",
+      "CS6340",
+      "CS6404",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "Office hours are 80% PhD students, 20% Master's students (you'll feel out of place)\n**Courses I Recommend vs. Avoid:**\nTAKE:\n- CS 7641 (ML) \u2014 if you want an ML career, non-negotiable\n- CS 6340 (AI) \u2014 great breadth, well-taught\n- CS 6200 (OS) \u2014 solid systems foundation\nAVOID unless committed:\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_011",
+    "start_char": 2257,
+    "end_char": 2550,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "- CS 6200 (OS) \u2014 solid systems foundation\nAVOID unless committed:\n- CS 6505 (Algorithms) \u2014 only if theory matters for your goals\n- CS 7646 (Trading) \u2014 only if you're interested in finance\n- CS 6476 (Computer Vision) \u2014 very project-heavy, time sink\nSKIP:\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_012",
+    "start_char": 2484,
+    "end_char": 2738,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6476",
+      "CS6505",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "- CS 6476 (Computer Vision) \u2014 very project-heavy, time sink\nSKIP:\n- Courses without clear relevance to your goal (you don't have time for exploration)\n**My Recommendation for Time-Strapped Students:**\nTake 2 hard courses + 1 medium course per semester.\nHard: 7641, 6505, 6476 (project-heavy vision)\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_013",
+    "start_char": 2672,
+    "end_char": 2971,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6476"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "Take 2 hard courses + 1 medium course per semester.\nHard: 7641, 6505, 6476 (project-heavy vision)\nMedium: 6340, 6200, 6291, 6300\nLight: 6100 (Security), 6001 (Bio)\nThis way you make progress but don't burn out.\n**One More Thing:**\n",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_014",
+    "start_char": 2873,
+    "end_char": 3104,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6291",
+      "CS6300",
+      "CS6340",
+      "CS6404",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "This way you make progress but don't burn out.\n**One More Thing:**\nThe grad program is NOT like undergrad where you can recover with a last-minute grind. Concepts build incrementally. If you fall behind in week 2 of 7641, you'll be lost by midterm. Start assignments early. Attend lectures. ",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_015",
+    "start_char": 3037,
+    "end_char": 3328,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6291",
+      "CS6300",
+      "CS6340",
+      "CS6404",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "If you fall behind in week 2 of 7641, you'll be lost by midterm. Start assignments early. Attend lectures. Don't skip.\n---\nSource: Personal blog\nDate: April 2026",
+    "source_file": "06_blog_MastersProgram_CoursePlanning.txt",
+    "source_path": "documents/06_blog_MastersProgram_CoursePlanning.txt",
+    "chunk_id": "06_016",
+    "start_char": 3221,
+    "end_char": 3382,
+    "document_sequence": 6,
+    "course_codes": [
+      "CS6200",
+      "CS6291",
+      "CS6300",
+      "CS6340",
+      "CS6404",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Personal blog",
+    "date": "April 2026"
+  },
+  {
+    "text": "Discord Transcript: Georgia Tech CS Master's Community\nChannel: #course-selection\nThread: \"Is 7641 really worth the pain? Should I just take 6340?\"\nDate: May 2026\n---\nUser A (2nd semester):\nNot a quick answer but: Yes, take 7641. I was also considering skipping it and just doing 6340. ",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_001",
+    "start_char": 0,
+    "end_char": 286,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "I was also considering skipping it and just doing 6340. But here's why 7641 matters:\n**7641 is hard but it's the foundation.** 6340 is AI algorithms (search, planning, CSP). 7641 is learning from data (the thing everyone actually does). ",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_002",
+    "start_char": 230,
+    "end_char": 467,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "7641 is learning from data (the thing everyone actually does). If you want an ML job, employers basically expect you to have 7641-level knowledge.\n**The pain is worth it:** I spent 20 hours on homework for 7641. I spent 12 hours on 6340 homework. ",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_003",
+    "start_char": 404,
+    "end_char": 651,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "**The pain is worth it:** I spent 20 hours on homework for 7641. I spent 12 hours on 6340 homework. But the 7641 homework actually taught me how to think about ML. The 6340 homework was \"implement this algorithm.\"\n**6340 is great BUT:** It's more CS-theory adjacent. ",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_004",
+    "start_char": 551,
+    "end_char": 818,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "**6340 is great BUT:** It's more CS-theory adjacent. If your goal is ML (which I assume it is if you're asking), 6340 is a nice supplement, not a replacement.\nUser B (1st semester):\nOkay but I'm scared I'll fail. What if I'm not smart enough?\nUser A:\nYou won't fail. Isbell curves. ",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_005",
+    "start_char": 765,
+    "end_char": 1047,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "What if I'm not smart enough?\nUser A:\nYou won't fail. Isbell curves. The class is hard but ~60% pass with B or better. If you don't fail all exams, the homework grades bring you up.\nAlso: \"not smart enough\" is not the barrier. The barrier is time. If you give 7641 15 hours a week, you'll pass. ",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_006",
+    "start_char": 978,
+    "end_char": 1273,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "The barrier is time. If you give 7641 15 hours a week, you'll pass. If you give it 5 hours, you'll struggle.\nUser C (Master's advisor):\nCo-signing this. We tell students: if you have time for one course, make it 7641. Everything else is supporting.\n",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_007",
+    "start_char": 1205,
+    "end_char": 1454,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "We tell students: if you have time for one course, make it 7641. Everything else is supporting.\nThe grad recruiters at tech companies (FAANG, quant firms) want to see 7641 on your transcript. They don't care about 6340.\nUser B:\nAlright, I'm convinced. But how do I balance it with other courses?\n",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_008",
+    "start_char": 1358,
+    "end_char": 1654,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "Alright, I'm convinced. But how do I balance it with other courses?\nUser A:\nTake 7641 + 1 medium course. Don't stack it with 6505 (too hard) or 7646 (project hell).\nGood pairings:\n- 7641 + 6340 (both math-heavy, different flavors)\n- 7641 + 6200 (7641 is theory, 6200 is systems, they don't overlap)\n",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_009",
+    "start_char": 1586,
+    "end_char": 1885,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- 7641 + 6200 (7641 is theory, 6200 is systems, they don't overlap)\n- 7641 + 6300 (6300 is lighter, gives you breathing room)\nBad pairings:\n- 7641 + 6505 (suicide mission)\n- 7641 + 7646 + anything (all time-hungry)\nUser D (Part-time student):\nHow do I do 7641 part-time? I work full-time.\nUser A:\n",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_010",
+    "start_char": 1817,
+    "end_char": 2114,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "How do I do 7641 part-time? I work full-time.\nUser A:\nHonestly? You don't, easily. 7641 is designed for full-time students. The exams are timed and require deep understanding, not quick solutions.\nBut some people do it:\n- Start homework first day it drops\n- Go to office hours even if just to listen\n",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_011",
+    "start_char": 2060,
+    "end_char": 2360,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Start homework first day it drops\n- Go to office hours even if just to listen\n- Use fall semester (lighter load) to do it\n- Or do it solo-course semester\nI wouldn't recommend it. Better to add an extra semester than to crush 7641 while working full-time.\n---\n",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_012",
+    "start_char": 2280,
+    "end_char": 2541,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "Better to add an extra semester than to crush 7641 while working full-time.\n---\nSource: Discord (GT CS Master's Server)\nDate: May 2026",
+    "source_file": "07_discord_CS_7641_Discussion.txt",
+    "source_path": "documents/07_discord_CS_7641_Discussion.txt",
+    "chunk_id": "07_013",
+    "start_char": 2461,
+    "end_char": 2595,
+    "document_sequence": 7,
+    "course_codes": [],
+    "professor": null,
+    "source": "Discord (GT CS Master's Server)",
+    "date": "May 2026"
+  },
+  {
+    "text": "Reddit Post: r/gatech\nTitle: \"CS 7641 exams: What actually matters and how to study\"\nPosted: 2026-04-05\nUpvotes: 189\nPost:\nJust finished 7641 and want to give back to future students. I got an A and here's what I learned about exam prep.\n**What 7641 exams test:**\nThey're NOT about:\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_001",
+    "start_char": 0,
+    "end_char": 283,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "I got an A and here's what I learned about exam prep.\n**What 7641 exams test:**\nThey're NOT about:\n- Memorizing algorithms\n- Knowing specific implementation tricks\n- Getting perfect homework grades\nThey ARE about:\n- Understanding WHY algorithms work (not just how)\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_002",
+    "start_char": 184,
+    "end_char": 449,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "- Understanding WHY algorithms work (not just how)\n- Deriving concepts from first principles\n- Applying algorithms to NEW problems you haven't seen\n- Trade-offs between approaches (when would you use Decision Trees vs Neural Networks?)\n**Example exam question I got:**\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_003",
+    "start_char": 398,
+    "end_char": 667,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "- Trade-offs between approaches (when would you use Decision Trees vs Neural Networks?)\n**Example exam question I got:**\n\"You have a dataset with 10,000 points, 50 features. You want to do classification. Describe your approach: which algorithms would you consider? What are the pros/cons? ",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_004",
+    "start_char": 546,
+    "end_char": 836,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "Describe your approach: which algorithms would you consider? What are the pros/cons? How would you validate? What preprocessing might help?\"\nThat's it. No formula sheet needed. Just thinking.\n**How I actually studied:**\nWeek 1 (2 weeks before exam):\n- Read lecture slides deeply (not passively)\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_005",
+    "start_char": 751,
+    "end_char": 1046,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "Week 1 (2 weeks before exam):\n- Read lecture slides deeply (not passively)\n- For each algorithm, write down: What problem does it solve? When do you use it? What are failure modes?\nWeek 2 (1 week before):\n- Work through textbook sections (ESL \u2014 Elements of Statistical Learning)\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_006",
+    "start_char": 971,
+    "end_char": 1250,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "- Work through textbook sections (ESL \u2014 Elements of Statistical Learning)\n- Do practice problems (Isbell releases 10-15 past exam questions)\n- Try to solve them without looking at solutions first\nFinal week:\n- 3-4 practice exams under timed conditions (2 hrs)\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_007",
+    "start_char": 1176,
+    "end_char": 1436,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "- 3-4 practice exams under timed conditions (2 hrs)\n- Identify gaps (algorithm A vs B \u2014 when do I choose each?)\n- Office hours to ask clarifying questions\n**What didn't help:**\n- Memorizing formulas (waste of time)\n- Watching YouTube tutorials (too passive)\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_008",
+    "start_char": 1384,
+    "end_char": 1642,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "- Memorizing formulas (waste of time)\n- Watching YouTube tutorials (too passive)\n- Only doing homework (homework is simpler than exams)\n- Cramming the night before (you'll blank on conceptual stuff)\n**The math barrier:**\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_009",
+    "start_char": 1561,
+    "end_char": 1782,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "- Cramming the night before (you'll blank on conceptual stuff)\n**The math barrier:**\nIf you haven't done linear algebra and probability in years, you might struggle. But here's the thing: you don't need to MASTER the math. You need to understand:\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_010",
+    "start_char": 1697,
+    "end_char": 1944,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "But here's the thing: you don't need to MASTER the math. You need to understand:\n- Matrix operations (transposes, inverses, multiplications)\n- Probability basics (distributions, Bayes' theorem, independence)\n- Calculus basics (derivatives for optimization)\nIsbell reviews these, but quickly. ",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_011",
+    "start_char": 1863,
+    "end_char": 2155,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "- Calculus basics (derivatives for optimization)\nIsbell reviews these, but quickly. If you're rusty, self-teach these BEFORE the course starts. (3Blue1Brown on YouTube for linear algebra, 3-4 hours of your time can unlock the whole course.)\n**Grade distribution I saw:**\nRaw exam scores:\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_012",
+    "start_char": 2071,
+    "end_char": 2359,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "(3Blue1Brown on YouTube for linear algebra, 3-4 hours of your time can unlock the whole course.)\n**Grade distribution I saw:**\nRaw exam scores:\n- Exam 1 median: 54/100\n- Exam 2 median: 58/100\n- Final median: 56/100\nAfter curve (homework + project added):\n- A range: 78-100%\n- B range: 65-77%\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_013",
+    "start_char": 2215,
+    "end_char": 2507,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "After curve (homework + project added):\n- A range: 78-100%\n- B range: 65-77%\n- C range: 50-64%\nSo if you get 55-60% on exams, homework saves you to a B. This matters.\n**Red flags you're studying wrong:**\n1. You can regurgitate the algorithm but can't explain why it works\n2. You memorized formulas instead of understanding them\n3. You haven't attempted any exams under timed conditions\n4. You're only reading lecture slides (need to go deeper)\n5. You haven't talked to the professor or TA about exam expectations\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_014",
+    "start_char": 2430,
+    "end_char": 2943,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "You haven't talked to the professor or TA about exam expectations\n**Bottom line:**\n7641 is hard but beatable. The trick is understanding concepts (not memorizing), starting early, and being honest with yourself about gaps in math background. If you do that, an A is achievable.\n---\n",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_015",
+    "start_char": 2877,
+    "end_char": 3159,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "The trick is understanding concepts (not memorizing), starting early, and being honest with yourself about gaps in math background. If you do that, an A is achievable.\n---\nTop comment (by CS_industry_recruiter):\n\"This. 7641 is the course tech companies look at for ML hiring. ",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_016",
+    "start_char": 2987,
+    "end_char": 3263,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "7641 is the course tech companies look at for ML hiring. Not just that you passed it, but how deeply you understood it. Good explanation of how to actually learn it.\"\n---\nSource: Reddit r/gatech\nDate: 2026-04-05",
+    "source_file": "08_reddit_CS7641_ExamTips.txt",
+    "source_path": "documents/08_reddit_CS7641_ExamTips.txt",
+    "chunk_id": "08_017",
+    "start_char": 3206,
+    "end_char": 3417,
+    "document_sequence": 8,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Reddit r/gatech",
+    "date": "2026-04-05"
+  },
+  {
+    "text": "Piazza Post: CS 7641 (Machine Learning)\nOriginal Question: \"How much should we memorize vs understand?\"\nPosted: April 2026\nInstructor Response Votes: 287 endorsements\n---\nSTUDENT QUESTION:\nOn the exam, will we be given formulas or expected to derive them? How much memorization is there?\n---\n",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_001",
+    "start_char": 0,
+    "end_char": 292,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "On the exam, will we be given formulas or expected to derive them? How much memorization is there?\n---\nINSTRUCTOR RESPONSE (Prof. Isbell):\nGreat question. The short answer: Memorization is the WRONG approach. The long answer follows.\n**What you will have on the exam:**\n",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_002",
+    "start_char": 189,
+    "end_char": 459,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "The long answer follows.\n**What you will have on the exam:**\n- Formula sheet: Yes, one page (both sides). Includes matrix operations, probability distributions, some common ML formulas.\n- Textbook: No, closed book.\n- Notes: No.\n**What that means:**\n",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_003",
+    "start_char": 398,
+    "end_char": 647,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "- Textbook: No, closed book.\n- Notes: No.\n**What that means:**\nSince you get a formula sheet, I'm NOT testing whether you memorized formulas. I'm testing whether you can:\n1. Recognize which algorithm/technique applies to a problem\n2. Apply it correctly\n3. Explain why it works\n4. Discuss trade-offs and assumptions\n",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_004",
+    "start_char": 584,
+    "end_char": 899,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "Explain why it works\n4. Discuss trade-offs and assumptions\n**Example:**\n\"Here's a dataset. A classmate suggests using SVM. Do you agree? Why or why not? What's an alternative approach?\"\nThe answer isn't a formula. It's your reasoning.\n**How to prepare:**\n",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_005",
+    "start_char": 840,
+    "end_char": 1095,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "The answer isn't a formula. It's your reasoning.\n**How to prepare:**\n- Learn the INTUITION behind each algorithm (not the math)\n- Practice on problems you haven't seen before\n- Be able to explain algorithm choices to someone else\n- Understand failure modes (when does logistic regression break?)\n",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_006",
+    "start_char": 1026,
+    "end_char": 1322,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "- Understand failure modes (when does logistic regression break?)\n**Math level:**\nYou need to understand linear algebra and calculus conceptually. You don't need to prove theorems. Example: knowing that gradient descent moves opposite the gradient and why that works. ",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_007",
+    "start_char": 1256,
+    "end_char": 1524,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "Example: knowing that gradient descent moves opposite the gradient and why that works. NOT: deriving the proof that gradient descent converges.\n**Common mistakes students make:**\n1. They memorize the algorithm but can't apply it to a new problem\n2. They avoid the math entirely and just focus on code\n3. They don't think about when/why an algorithm fails\n",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_008",
+    "start_char": 1437,
+    "end_char": 1792,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "They don't think about when/why an algorithm fails\n**My advice:**\nIf you can explain an algorithm to a smart friend who's not in this class, you understand it enough for the exam. If you can only recite it, you're not ready.\nThe homework is designed to teach understanding, not test memorization. ",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_009",
+    "start_char": 1741,
+    "end_char": 2038,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "The homework is designed to teach understanding, not test memorization. Use it that way.\n---\nSource: Piazza (CS 7641 Course Forum)\nDate: April 2026",
+    "source_file": "09_piazza_CS7641_StudyGuidance.txt",
+    "source_path": "documents/09_piazza_CS7641_StudyGuidance.txt",
+    "chunk_id": "09_010",
+    "start_char": 1966,
+    "end_char": 2113,
+    "document_sequence": 9,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Piazza (CS 7641 Course Forum)",
+    "date": "April 2026"
+  },
+  {
+    "text": "Survey: \"Georgia Tech CS Master's Students Rate Their Courses\"\nCompiled from: r/GATechCS, Discord, Piazza, direct survey responses\nDate: May 2026\nResponses: 62 Master's students\n---\n**Question 1: Which course should every MS student take?**\nResponses ranked by frequency:\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_001",
+    "start_char": 0,
+    "end_char": 272,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "**Question 1: Which course should every MS student take?**\nResponses ranked by frequency:\n- CS 7641 (ML): 58 mentions (94%)\n- CS 6340 (AI): 28 mentions (45%)\n- CS 6200 (OS): 22 mentions (35%)\n- CS 6505 (Algorithms): 19 mentions (31%, but divisive)\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_002",
+    "start_char": 182,
+    "end_char": 430,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "- CS 6505 (Algorithms): 19 mentions (31%, but divisive)\nKey quote: \"7641 is the only course that pays dividends after graduation. Do it.\" - Industry intern\n**Question 2: What's the hardest course at Tech (Master's level)?**\n1. CS 6505 (Algorithms): 31 mentions\n2. CS 7641 (ML): 19 mentions (people found it hard, but fair)\n3. CS 7646 (Trading): 8 mentions (hard but for different reasons \u2014 disorganization)\n4. CS 6476 (Vision): 4 mentions\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_003",
+    "start_char": 374,
+    "end_char": 813,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "CS 7646 (Trading): 8 mentions (hard but for different reasons \u2014 disorganization)\n4. CS 6476 (Vision): 4 mentions\nKey quote: \"6505 is designed to make you question your life choices. But if you pass, you've proved you can think.\" - PhD-track student\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_004",
+    "start_char": 700,
+    "end_char": 949,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6476",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "But if you pass, you've proved you can think.\" - PhD-track student\n**Question 3: How should students choose their course load?**\nMost common strategy:\n- Take 2 hard + 1 medium course per semester (18 credits)\n- Examples: (7641 + 6505 + 6300) or (7641 + 6340 + 6200)\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_005",
+    "start_char": 882,
+    "end_char": 1148,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Examples: (7641 + 6505 + 6300) or (7641 + 6340 + 6200)\n- Avoid: 3 hard courses (7641 + 6505 + 7646)\nTime estimates they reported:\n- Hard courses: 14-18 hrs/week\n- Medium courses: 10-13 hrs/week\n- Light courses: 7-10 hrs/week\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_006",
+    "start_char": 1091,
+    "end_char": 1318,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Medium courses: 10-13 hrs/week\n- Light courses: 7-10 hrs/week\n**Question 4: How should industry-track vs PhD-track students choose differently?**\nIndustry track (FAANG, quant, ML engineering):\n1. CS 7641 (ML) \u2014 non-negotiable\n2. CS 6340 (AI) \u2014 good breadth\n3. CS 6200 (OS) \u2014 systems understanding\n4. Skip: CS 6505 (Algorithms) unless going to PhD later\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_007",
+    "start_char": 1254,
+    "end_char": 1609,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "Skip: CS 6505 (Algorithms) unless going to PhD later\nPhD track (Academia, research):\n1. CS 6505 (Algorithms) \u2014 foundational proof techniques\n2. CS 7641 (ML) \u2014 research is data-driven\n3. CS 6340 (AI) \u2014 foundational AI theory\n4. Skip: CS 7646 (Trading) unless finance research interest\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_008",
+    "start_char": 1556,
+    "end_char": 1840,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "Skip: CS 7646 (Trading) unless finance research interest\n**Question 5: What's the biggest mistake students make?**\nTop 3:\n1. Taking too many hard courses at once (38 mentions)\n2. Underestimating 7641 workload (25 mentions)\n3. Comparing themselves to PhD students who have advantages (18 mentions)\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_009",
+    "start_char": 1783,
+    "end_char": 2080,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "Comparing themselves to PhD students who have advantages (18 mentions)\nKey quotes:\n- \"I took 7641 + 6505 at the same time. I aged 10 years in 4 months.\" - Industry student\n- \"The homework for 7641 says 10 hours but takes 20 if you actually understand it.\" - Master's student\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_010",
+    "start_char": 2009,
+    "end_char": 2284,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "- \"The homework for 7641 says 10 hours but takes 20 if you actually understand it.\" - Master's student\n- \"Don't compare yourself to PhD students. They've had a semester to settle in. You're new.\" - Grad advisor\n**Question 6: Professor quality matters \u2014 who should you seek out?**\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_011",
+    "start_char": 2181,
+    "end_char": 2461,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6200",
+      "CS6340",
+      "CS6476",
+      "CS6505",
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "**Question 6: Professor quality matters \u2014 who should you seek out?**\nBest rated professors:\n- Isbell (CS 7641): 4.8/5 (comprehensive, fair, cares)\n- Doroudi (CS 6340): 4.7/5 (great teacher, well-organized)\n- Goldberg (CS 6505): 4.5/5 (intimidating but rewarding, fair grading)\nProblematic:\n",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_012",
+    "start_char": 2392,
+    "end_char": 2682,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Goldberg (CS 6505): 4.5/5 (intimidating but rewarding, fair grading)\nProblematic:\n- Bhatia (CS 7646): 3.2/5 (disorganized, great topic, rough execution)\n---\nSource: Crowdsourced survey\nSample size: 62 Master's students\nDate range: Spring 2026",
+    "source_file": "10_survey_MS_CourseSelectionGuide.txt",
+    "source_path": "documents/10_survey_MS_CourseSelectionGuide.txt",
+    "chunk_id": "10_013",
+    "start_char": 2598,
+    "end_char": 2842,
+    "document_sequence": 10,
+    "course_codes": [
+      "CS6505",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Crowdsourced survey",
+    "date": "May 2026"
+  },
+  {
+    "text": "Blog Post: \"CS 7641 vs CS 6340: Which ML/AI course should you actually take?\"\nAuthor: Georgia Tech CS Master's Graduate (2025)\nDate: May 2026\nComparison:\nI took both 7641 and 6340 as a Master's student. Here's what they are and which one you should prioritize.\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_001",
+    "start_char": 0,
+    "end_char": 261,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "Here's what they are and which one you should prioritize.\n**CS 7641 \u2014 Machine Learning (Supervised/Unsupervised/RL)**\nWhat it covers:\n- Supervised learning (regression, classification)\n- Unsupervised learning (clustering, dimensionality reduction)\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_002",
+    "start_char": 203,
+    "end_char": 451,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Unsupervised learning (clustering, dimensionality reduction)\n- Reinforcement learning (Q-learning, policy gradients)\n- Neural networks and deep learning intro\n- Ensemble methods, Bayesian approaches\nVibe: Rigorous, mathematical, extensive. Feels like a university ML course should.\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_003",
+    "start_char": 388,
+    "end_char": 672,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "Vibe: Rigorous, mathematical, extensive. Feels like a university ML course should.\nWorkload: Heavy (14-16 hrs/week)\nWhy it matters:\n- If you want to be an ML engineer, this is the foundation course\n- Every ML recruiter expects it on your resume\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_004",
+    "start_char": 589,
+    "end_char": 834,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "- If you want to be an ML engineer, this is the foundation course\n- Every ML recruiter expects it on your resume\n- The homework is applied (build decision trees, implement neural nets)\n- You actually understand WHY algorithms work\nMath level: High (linear algebra, calculus, probability)\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_005",
+    "start_char": 721,
+    "end_char": 1009,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "Math level: High (linear algebra, calculus, probability)\nProfessor: Isbell teaches it well, fair exams, generous curve\n---\n**CS 6340 \u2014 Artificial Intelligence (Search, Planning, Game Playing)**\nWhat it covers:\n- Search algorithms (BFS, DFS, A*, minimax)\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_006",
+    "start_char": 952,
+    "end_char": 1206,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "What it covers:\n- Search algorithms (BFS, DFS, A*, minimax)\n- Constraint satisfaction problems (backtracking, heuristics)\n- Game playing (adversarial search)\n- Knowledge representation (logic, Bayesian networks)\n- Planning and uncertainty\nVibe: Algorithmic, practical problem-solving. ",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_007",
+    "start_char": 1146,
+    "end_char": 1431,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Planning and uncertainty\nVibe: Algorithmic, practical problem-solving. More \"implement cool things\" than \"understand deep theory.\"\nWorkload: Medium (11-13 hrs/week)\nWhy it matters:\n- Broader CS perspective (not just data science)\n- Good for game AI, robotics, planning problems\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_008",
+    "start_char": 1358,
+    "end_char": 1638,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Broader CS perspective (not just data science)\n- Good for game AI, robotics, planning problems\n- Algorithm design skills are timeless\n- Professor Doroudi is excellent\nMath level: Medium (basic probability, logic)\nProfessor: Doroudi is phenomenal (clear, helpful, organized)\n---\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_009",
+    "start_char": 1541,
+    "end_char": 1821,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "Professor: Doroudi is phenomenal (clear, helpful, organized)\n---\n**Head-to-Head Comparison:**\n| Aspect | 7641 ML | 6340 AI |\n|--------|---------|---------|\n| Difficulty | Hard | Medium |\n| Math burden | Heavy (linalg, calc, prob) | Light (basic prob, logic) |\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_010",
+    "start_char": 1756,
+    "end_char": 2016,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "| Math burden | Heavy (linalg, calc, prob) | Light (basic prob, logic) |\n| Implementation | Build ML from scratch | Implement algorithms |\n| Time commitment | 15+ hrs/week | 11 hrs/week |\n| Job relevance | Critical for ML roles | Good for breadth |\n| Research relevance | Very high | Moderate |\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_011",
+    "start_char": 1943,
+    "end_char": 2238,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "| Job relevance | Critical for ML roles | Good for breadth |\n| Research relevance | Very high | Moderate |\n| Fun factor | Intellectually satisfying | Algorithm problem-solving |\n| Curve | Generous | Depends on class performance |\n| Professor quality | Excellent | Excellent |\n---\n**Decision Tree:**\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_012",
+    "start_char": 2131,
+    "end_char": 2430,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "| Professor quality | Excellent | Excellent |\n---\n**Decision Tree:**\nDo you want to work in ML?\n\u2192 YES: Take 7641. Non-negotiable. Take 6340 as second course.\n\u2192 NO, but interested in AI/algorithms: Take 6340, skip 7641.\n\u2192 UNSURE: Take 7641 first. If you enjoy it, continue. ",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_013",
+    "start_char": 2361,
+    "end_char": 2634,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "\u2192 UNSURE: Take 7641 first. If you enjoy it, continue. If you hate it, 6340 is good pivot.\nAre you PhD-track?\n\u2192 YES: Take both. Start with 6505 (algorithms) + 7641. Defer 6340 to second semester.\n\u2192 NO (industry-track): 7641 is essential, 6340 is optional but recommended.\n---\n**My Personal Take:**\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_014",
+    "start_char": 2580,
+    "end_char": 2877,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "\u2192 NO (industry-track): 7641 is essential, 6340 is optional but recommended.\n---\n**My Personal Take:**\nI did 7641 first semester (suffered but learned deeply).\nI did 6340 second semester (enjoyed it more, easier pace).\nIn retrospect, this order made sense. 7641 is the harder, more essential course. ",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_015",
+    "start_char": 2775,
+    "end_char": 3074,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "In retrospect, this order made sense. 7641 is the harder, more essential course. I was fresh and could handle it. 6340 was a nice relief that reinforced broader CS thinking.\nIf I were advising someone:\n- Do 7641 when you're fresh (ideally semester 1)\n",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_016",
+    "start_char": 2993,
+    "end_char": 3244,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6340",
+      "CS6505",
+      "CS7641"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "If I were advising someone:\n- Do 7641 when you're fresh (ideally semester 1)\n- Do 6340 as a complementary course (semester 1 or 2, doesn't matter)\n- Skip CS 6505 unless PhD-track or masochistic\n---\nSource: Personal blog\nDate: May 2026",
+    "source_file": "11_blog_7641_vs_6340.txt",
+    "source_path": "documents/11_blog_7641_vs_6340.txt",
+    "chunk_id": "11_017",
+    "start_char": 3167,
+    "end_char": 3401,
+    "document_sequence": 11,
+    "course_codes": [
+      "CS6505"
+    ],
+    "professor": "Isbell",
+    "source": "Personal blog",
+    "date": "May 2026"
+  },
+  {
+    "text": "Blind Post: \"Georgia Tech CS Master's \u2014 Real talk about the program\"\nPosted: May 2026\nVotes: 145 upvotes\n---\nTitle: \"Worth the money? Honest take after finishing my degree\"\nPost:\nI just finished my CS Master's at Georgia Tech. Total cost: ~$35k over 2 years (part-time, taking 2 courses/semester). ",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_001",
+    "start_char": 0,
+    "end_char": 298,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "Total cost: ~$35k over 2 years (part-time, taking 2 courses/semester). Here's my honest assessment.\n**Career outcome:**\nGot offered 3 jobs after graduation, all in ML/AI. Highest offer: $180k TC (San Francisco). Current: $165k TC (remote, Atlanta-based company). ",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_002",
+    "start_char": 227,
+    "end_char": 490,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "Current: $165k TC (remote, Atlanta-based company). Previously: $120k TC before grad school.\n**Was it worth it?**\nYes, but with caveats.\n**What mattered:**\n1. CS 7641 on transcript (recruiters specifically asked about it)\n2. Projects I built for classes (portfolio matters more than GPA)\n3. Networking with classmates (2 of my job connections came from study groups)\n4. Time to build side projects while studying\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_003",
+    "start_char": 439,
+    "end_char": 851,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "Networking with classmates (2 of my job connections came from study groups)\n4. Time to build side projects while studying\n**What didn't matter:**\n- GPA (mine was 3.8 but nobody asked for it)\n- Taking obscure electives (CS 7646 seemed cool but wasn't valuable)\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_004",
+    "start_char": 729,
+    "end_char": 989,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Taking obscure electives (CS 7646 seemed cool but wasn't valuable)\n- Rushing to finish (taking it part-time gave me breathing room)\n**Red flags I saw (students who struggled):**\n- Taking too many courses too fast (8 courses in 1 year)\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_005",
+    "start_char": 920,
+    "end_char": 1157,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Taking too many courses too fast (8 courses in 1 year)\n- Prioritizing GPA over actual learning (students who got A's but couldn't code)\n- Skipping the hard courses (7641, 6505) for easier electives\n- Not building portfolio projects (grades alone don't get jobs)\n**Best strategy I saw:**\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_006",
+    "start_char": 1100,
+    "end_char": 1389,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Not building portfolio projects (grades alone don't get jobs)\n**Best strategy I saw:**\n- Full-time MS: 3 semesters, 2 courses per semester, 1 internship\n- Part-time MS: 4-5 semesters, 2 courses per semester, keep your job\n- Prioritize: 7641 (ML), then your domain of interest, then electives\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_007",
+    "start_char": 1300,
+    "end_char": 1594,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Prioritize: 7641 (ML), then your domain of interest, then electives\n- Build 1-2 portfolio projects alongside courses\n- Network with TAs and professors (they have connections)\n**Would I do it again?**\nYes. The salary increase alone paid for itself. ",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_008",
+    "start_char": 1524,
+    "end_char": 1774,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "**Would I do it again?**\nYes. The salary increase alone paid for itself. Plus I understand ML deeply now (not just API-driven coding).\n**Why some people regret it:**\n- Took non-rigorous electives instead of hard ones\n- Didn't job search properly (good resume still matters)\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_009",
+    "start_char": 1701,
+    "end_char": 1975,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- Didn't job search properly (good resume still matters)\n- Isolated themselves (didn't network with cohort)\n- Tried to do too much too fast\n**The reality check:**\nThe degree opens doors, but YOU have to walk through them. There are graduates who job-searched for 6 months. ",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_010",
+    "start_char": 1918,
+    "end_char": 2191,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "There are graduates who job-searched for 6 months. There are graduates who had 5 offers. Difference was interview prep and being selective about courses.\n**My coursework (in order):**\nSemester 1: 7641 (ML), 6340 (AI) \u2014 foundation courses\nSemester 2: 6200 (OS), 6300 (SWE) \u2014 systems understanding\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_011",
+    "start_char": 2140,
+    "end_char": 2436,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "Semester 2: 6200 (OS), 6300 (SWE) \u2014 systems understanding\nSemester 3: 7646 (Trading), 6001 (Bio) \u2014 electives (honestly didn't matter)\nInternship: Summer, 3 months in ML research\nThis gave me: ML foundation + systems knowledge + research experience + portfolio projects.\n**TL;DR:**\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_012",
+    "start_char": 2378,
+    "end_char": 2659,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "This gave me: ML foundation + systems knowledge + research experience + portfolio projects.\n**TL;DR:**\n- Get your 7641 + domain-specific courses\n- Build projects\n- Network\n- Don't get caught up in GPA\n- The degree is an accelerant, not a guarantee\n---\nSource: Blind (tech industry community)\n",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_013",
+    "start_char": 2556,
+    "end_char": 2848,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  },
+  {
+    "text": "- The degree is an accelerant, not a guarantee\n---\nSource: Blind (tech industry community)\nDate: May 2026",
+    "source_file": "12_blind_MS_CareerReality.txt",
+    "source_path": "documents/12_blind_MS_CareerReality.txt",
+    "chunk_id": "12_014",
+    "start_char": 2757,
+    "end_char": 2862,
+    "document_sequence": 12,
+    "course_codes": [
+      "CS7641",
+      "CS7646"
+    ],
+    "professor": null,
+    "source": "Blind (tech industry community)",
+    "date": "May 2026"
+  }
+]
