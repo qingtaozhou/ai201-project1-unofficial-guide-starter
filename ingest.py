@@ -103,11 +103,16 @@ def save_raw_documents(documents, output_path="raw_documents.jsonl"):
             handle.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
+# Main entry point for the ingestion script
 if __name__ == "__main__":
+    # Load all documents from the documents directory
     loaded = load_documents()
+    # Save raw documents to JSONL format
     save_raw_documents(loaded)
+    # Print summary statistics
     print(f"Loaded {len(loaded)} documents")
     print("Saved raw text to raw_documents.jsonl")
+    # Print details for each loaded document
     for doc in loaded:
         meta = doc["metadata"]
         print(
